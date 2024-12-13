@@ -4,12 +4,12 @@ Este repositório contém implementações clássicas de estruturas de dados fun
 
 ---
 
-## Sobre
+## 💠 Sobre
 Este projeto foi criado para explorar conceitos de **estruturas de dados** por meio de implementações práticas. 
 
 As implementações estão escritas em **C**, mas podem servir como base para outras linguagens de programação. Cada estrutura vem acompanhada de exemplos de uso e comentários para facilitar o entendimento.
 
-## Estruturas Implementadas
+## 💠 Estruturas Implementadas
 
 Atualmente, o repositório possui as seguintes estruturas de dados:
 
